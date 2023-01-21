@@ -19,7 +19,8 @@
 
 ## 📢 Contact  
 
-<a href="https://jfelog.netlify.app/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat&logo=Gatsby&logoColor=white"/></a>
+<a href="https://jfelog.netlify.app/"><img src="https://img.shields.io/badge/Gatsby Blog-663399?style=flat&logo=Gatsby&logoColor=white"/></a>
+<a href="https://jfelog.tistory.com/"><img src="https://img.shields.io/badge/Tistory Blog-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="mailto:gojaech@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </div>
